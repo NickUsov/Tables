@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+}
+.body{
+    width: 100%;
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.tile{
+    width: 200px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin: 20px;
+    float: left;
+}
+img{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+h3{
+    text-align: center;
+}
+footer{
+    width: 100%;
+    max-width: 1220px;
+    margin: 0 auto;
+    clear: both;
+    border-top: 1px solid gray;
+}
